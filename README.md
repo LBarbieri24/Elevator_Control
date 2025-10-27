@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project presents the design and implementation of an **elevator control system** using generalized actuators and well-defined control policies.  
+This project presents the design and implementation of an **elevator control system** developed in the Codesys environment using generalized actuators and well-defined control policies.  
 The system handles door operations, vertical movement, call management, and emergency/fault conditions to ensure safe and efficient operation.
 
 ---
